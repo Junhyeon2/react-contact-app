@@ -44,6 +44,4 @@ class PhoneForm extends Component {
     }
 }
 
-PhoneForm.propTypes = {};
-
 export default PhoneForm;
