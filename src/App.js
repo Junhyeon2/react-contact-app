@@ -88,7 +88,7 @@ class App extends Component {
             <div>
                 <PhoneForm onCreate={this.handleCreate}/>
                 <input
-                    vlaue={this.state.keyword}
+                    value={this.state.keyword}
                     onChange={this.handleChange}
                     placeholder="검색..."
                 />
